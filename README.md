@@ -43,6 +43,8 @@ Tools and engines for developing diagnostic tests, interactive quizzes, and auto
 
 ## Instructional Media & Diagramming
 
+- [Whiteboard AI Tutor](https://github.com/molly554/whiteboard-ai-tutor) - Open-source animated whiteboard lessons and model-comparison benchmarks; generating new lessons requires model API keys.
+
 Software, engines, and graphics suites optimized for technical illustrations, math notation, and educational video production.
 
 - [Manim](https://github.com/3b1b/manim) — Animation engine for explanatory math and technical videos, created by 3Blue1Brown.
